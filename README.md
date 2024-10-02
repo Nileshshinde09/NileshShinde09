@@ -24,8 +24,4 @@ i'm Nilesh , Full Stack devloper.
 ### 😂 Random Dev Meme
 ![Random Dev Meme](https://github.com/Nileshshinde09/NileshShinde09/assets/90444068/b4a67c71-a514-43c2-b282-5097569228d5)
 
----
-[![](https://visitcount.itsvg.in/api?id=nileshshinde09&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
