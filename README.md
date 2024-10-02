@@ -70,7 +70,7 @@
 <br/>
 
 <div align="center">
-<a href='https://nileshshinde.tech/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://github.com/user-attachments/assets/0909abb1-0cfa-4c4b-98d8-b9ffe73a18de' border='0' alt='nileshshinde.tech' /></a>
+<a href='https://nileshshinde.tech/' target='_blank'><img height='100' style='border:0px;height:64px;' src='https://github.com/user-attachments/assets/0909abb1-0cfa-4c4b-98d8-b9ffe73a18de' border='0' alt='nileshshinde.tech' /></a>
 <h5>Portfolio</h5>
 </div>
 
