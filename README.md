@@ -21,7 +21,4 @@ i'm Nilesh , Full Stack devloper.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nileshshinde09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-![Random Dev Meme](https://github.com/Nileshshinde09/NileshShinde09/assets/90444068/b4a67c71-a514-43c2-b282-5097569228d5)
-
 
