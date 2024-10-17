@@ -8,13 +8,13 @@
 <br/>
  
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/nileshshinde09/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-      <a href="https://skillicons.dev">
+      <a href="https://www.instagram.com/striveronly/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-      <a href="https://skillicons.dev">
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nileshshindeofficial.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
