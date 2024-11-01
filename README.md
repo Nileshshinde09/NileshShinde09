@@ -25,7 +25,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,r,md" />
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,py,js,express,appwrite,prisma,mongodb,postman,docker,c,redux,redis,nodejs,nginx,vercel,vite,vscode,mysql,sklearn,bots,sqlite,flask,bun" /><br>
+    <img src="https://skillicons.dev/icons?i=nextjs,ts,py,js,express,appwrite,prisma,mongodb,postman,docker,c,redux,redis,nodejs,nginx,vercel,vite,vscode,mysql,sklearn,bots,sqlite,flask,bun,kubernetes" /><br>
 </div>
 
 <br/>
