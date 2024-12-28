@@ -40,15 +40,12 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nileshshinde09&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
 
 <hr/>
 
-<br/>
-
-<div align="center">
+<!--  <div align="center">
 <a href='https://nileshshinde.tech/' target='_blank'><img height='100' style='border:0px;height:200px;' src='https://github.com/user-attachments/assets/0909abb1-0cfa-4c4b-98d8-b9ffe73a18de' border='0' alt='nileshshinde.tech' /></a>
 </div>
-
+-->
 <br/>
 
