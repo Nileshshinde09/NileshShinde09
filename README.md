@@ -16,6 +16,9 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nileshshindeofficial@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nileshshindeofficial@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 </p>
 
 <hr/>
@@ -25,7 +28,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/Nileshshinde09?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,py,js,express,appwrite,prisma,mongodb,postman,docker,c,redux,redis,nodejs,nginx,vercel,vite,mysql,sqlite,flask,bun,kubernetes,react,html,css,vscode,github,tailwind,git,r,md" />
+    <img src="https://skillicons.dev/icons?i=nextjs,ts,py,js,express,appwrite,prisma,mongodb,postman,docker,c,redux,redis,graphql,nodejs,nginx,vercel,vite,mysql,postgres,sqlite,flask,bun,pnpm,npm,kubernetes,kafka,react,html,css,vscode,github,tailwind,git,r,md,webpack,regex,figma" />
   </a>
 </div>
 
