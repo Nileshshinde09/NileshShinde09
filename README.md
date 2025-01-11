@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nilesh+Shinde!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nilesh+Shinde!;Your+Friendly+Dev+Next+Door!;" />
 </h1>
 
-<h3 align="center">A Full Stack Developer</h3>  
+<h3 align="center">Full Stack Developer • Debugger Extraordinaire • Coffee Enthusiast</h3>
 
 <br/>
 
@@ -20,28 +20,29 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Tools of the Trade ⚒️</h2>
+<p align="center"><i>Or as I like to call it, my techie Pokémon collection:</i></p>
 <br/>
 <div align="center">
   <a href="https://github.com/Nileshshinde09?tab=repositories">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,r,md" />
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,py,js,express,appwrite,prisma,mongodb,postman,docker,c,redux,redis,nodejs,nginx,vercel,vite,vscode,mysql,sklearn,bots,sqlite,flask,bun,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=nextjs,ts,py,js,express,appwrite,prisma,mongodb,postman,docker,c,redux,redis,nodejs,nginx,vercel,vite,mysql,sqlite,flask,bun,kubernetes" />
   </a>
 </div>
 
-<br/>
 <hr/>
 
-<h2 align="center">🌟 Fun Animations 🌟</h2>
-<div align="center">
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="coding animation" width="400" height="200" />
-    <p>Fueled by coffee ☕ and code 💻</p>
-</div>
+<h2 align="center">💡 Fun Facts About Me 💡</h2>
+<ul>
+  <li>🔥 I once spent 3 hours debugging a missing semicolon. True story.</li>
+  <li>☕ Coffee isn't just a drink for me; it's a debugging tool.</li>
+  <li>🎵 My playlist is 90% code tutorials and 10% random music recommendations.</li>
+  <li>🐛 Bugs fear me... or so I tell myself at 3 AM.</li>
+</ul>
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<h2 align="center">🌟 GitHub Stats That Prove I Work (Sometimes) 🌟</h2>
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nileshshinde09&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nileshshinde09&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -51,9 +52,18 @@
 
 <hr/>
 
-<h2 align="center">🌟 Let's Connect 🌟</h2>
+<h2 align="center">🌟 Visual Vibes 🌟</h2>
+<div align="center">
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="coding animation" width="400" height="200" />
+    <p><i>"If you can't debug it, feature it!"</i></p>
+</div>
+
+<hr/>
+
+<h2 align="center">📣 Let's Connect! 📣</h2>
+<p align="center">Feel free to slide into my DMs or emails. I promise I don’t bite... unless you're a bug in my code. 🐛</p>
 <div align="center">
   <a href="https://nileshshinde.tech/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7D1CD&size=24&center=true&vCenter=true&width=500&height=50&lines=Explore+my+Portfolio;Learn+About+My+Projects!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7D1CD&size=24&center=true&vCenter=true&width=500&height=50&lines=Visit+My+Portfolio;Explore+My+Projects!" />
   </a>
 </div>
