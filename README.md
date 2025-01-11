@@ -1,53 +1,59 @@
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nilesh+Shinde!;" />
 </h1>
 
-<h3 align="center">A Full Stack Devloper</h3>  
+<h3 align="center">A Full Stack Developer</h3>  
 
 <br/>
- 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nileshshinde09/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-      <a href="https://www.instagram.com/striveronly/" target="_blank">
+  <a href="https://www.instagram.com/striveronly/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-      <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nileshshindeofficial@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nileshshindeofficial@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
- <hr/>
- 
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <a href="https://github.com/Nileshshinde09?tab=repositories">
+  <a href="https://github.com/Nileshshinde09?tab=repositories">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,r,md" />
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,py,js,express,appwrite,prisma,mongodb,postman,docker,c,redux,redis,nodejs,nginx,vercel,vite,vscode,mysql,sklearn,bots,sqlite,flask,bun,kubernetes" /><br>
-    </a>
+    <img src="https://skillicons.dev/icons?i=nextjs,ts,py,js,express,appwrite,prisma,mongodb,postman,docker,c,redux,redis,nodejs,nginx,vercel,vite,vscode,mysql,sklearn,bots,sqlite,flask,bun,kubernetes" />
+  </a>
 </div>
 
 <br/>
 <hr/>
 
+<h2 align="center">🌟 Fun Animations 🌟</h2>
+<div align="center">
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="coding animation" width="400" height="200" />
+    <p>Fueled by coffee ☕ and code 💻</p>
+</div>
+
+<hr/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
+<div align="center">
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nileshshinde09&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nileshshinde09&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nileshshinde09&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-
 <hr/>
 
-<!--  <div align="center">
-<a href='https://nileshshinde.tech/' target='_blank'><img height='100' style='border:0px;height:200px;' src='https://github.com/user-attachments/assets/0909abb1-0cfa-4c4b-98d8-b9ffe73a18de' border='0' alt='nileshshinde.tech' /></a>
+<h2 align="center">🌟 Let's Connect 🌟</h2>
+<div align="center">
+  <a href="https://nileshshinde.tech/" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7D1CD&size=24&center=true&vCenter=true&width=500&height=50&lines=Explore+my+Portfolio;Learn+About+My+Projects!" />
+  </a>
 </div>
--->
-<br/>
-
