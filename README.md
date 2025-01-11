@@ -28,7 +28,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/Nileshshinde09?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,py,js,express,react,appwrite,prisma,mongodb,postman,docker,c,redux,redis,graphql,nodejs,nginx,vercel,vite,mysql,postgres,sqlite,flask,bun,pnpm,npm,kubernetes,kafka,react,html,css,vscode,github,tailwind,git,r,md,webpack,regex,figma" />
+    <img src="https://skillicons.dev/icons?i=nextjs,ts,py,js,express,react,appwrite,prisma,mongodb,postman,docker,c,redux,redis,graphql,nodejs,nginx,vercel,vite,mysql,postgres,sqlite,flask,bun,pnpm,npm,kubernetes,kafka,html,css,vscode,github,tailwind,git,r,md,webpack,regex,figma" />
   </a>
 </div>
 
